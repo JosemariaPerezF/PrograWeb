@@ -1,8 +1,30 @@
 body{
     margin: 0px;
+    background-color: gainsboro;
 }
 
-.contenedor{
-    padding: 50px;
-    border: 1px solid;
+header{
+    background-color: aquamarine;
+    height: 100 px;
+    margin-bottom: 10px;
+}
+nav {
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+
+section{
+    height: 150px;
+    background-color: bisque;
+}
+
+.servicios{
+    background-color: cornsilk
+};
+
+
+.menu li {
+    display: inline-block;
+    margin-top: 10px;
 }
